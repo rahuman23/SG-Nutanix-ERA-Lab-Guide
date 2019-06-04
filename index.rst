@@ -1,70 +1,12 @@
-.. title:: Tech Summit 2019
+.. title:: Nutanix Singapore Bootcamp lab guide
 
 .. toctree::
    :maxdepth: 2
-   :caption: Event Info
-   :name: _info
-   :hidden:
-
-   info/emeaagenda
-   info/clusteraccess
-   info/clusterinfo
-   info/validation
-   
-.. toctree::
-   :maxdepth: 2
-   :caption: Nutanix Core Labs
-   :name: _core_labs
-   :hidden:
-
-   nutanix101/nutanix101
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Nutanix Essentials Labs
-   :name: _essentials_labs
-   :hidden:
-
-   calm_linux/calm_linux
-   files/files
-   flow/flow
-   xplay/xplay
-   dr_runbooks/dr_runbooks
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Nutanix Enterprise Labs
+   :caption: Nutanix ERA Labs
    :name: _enterprise_labs
    :hidden:
 
-   buckets/buckets
    era/era
-   karbon/karbon
-   xtract_aws/xtract_aws
-   epoch/epoch
-   frame/frame
-   xiiot/xiiot
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Advanced Labs
-   :name: _advanced_labs
-   :hidden:
-
-   apis/apis
-   calm_day2/calm_day2
-   calm_escript/calm_escript
-   calm_win/calm_win
-   cloud_native_lab/cloud_native_lab
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Sponsor Labs
-   :name: _sponsor_labs
-   :hidden:
-
-   hycu/hycu
-   peer/peer
 
 .. toctree::
    :maxdepth: 2
@@ -78,26 +20,33 @@
    wordpress/wordpress
 
 
-.. _welcome:
+   .. _welcome:
 
---------------------------
-Nutanix Global Tech Summit
---------------------------
+   --------------------------
+   Nutanix Singapore Bootcamp lab guide
+   --------------------------
 
-Welcome to Nutanix Global Tech Summit 2019!
+   Welcome to Nutanix Singapore Bootcamp ERA 101
 
-Following the General Session on Tuesday morning, you will be able to access the **Hands on Learning** lab content.
+   Labs are designed to be completed by each individual, not in groups.
 
-Labs are designed to be completed by each individual, not in groups. Each Nutanix employee registered for the **Hands on Learning** track must complete a **minimum** of 5 labs.
+   Please reach out to any Nutanix trainer if you face any technical issue.
 
-For each lab you complete & validate, you'll be entered into a raffle to win a complete Raspberry Pi 3 kit!
+   .. raw:: html
 
-**Proctors will be regularly checking in with each table to validate completed labs. You do NOT need to wait for lab validation before proceeding to your next lab, but please take the time to clean up unneeded VMs after each lab validation.**
+     <strong><font color="red">REVIEW THE FOLLOWING SECTIONS BEFORE BEGINNING ANY LABS:</font></strong>
 
-.. raw:: html
 
-  <strong><font color="red">REVIEW THE FOLLOWING SECTIONS BEFORE BEGINNING ANY LABS:</font></strong>
+   Ensure that you are connected to Nutanix Guest Wifi, details are provided below:
 
-- :ref:`clusteraccess` - *VPN configuration for accessing the Nutanix Hosted POC network*
-- :ref:`clusterinfo` - *Your individual cluster assignment and details on how your cluster was staged*
-- :ref:`validation` - *How to get assistance with a lab*
+   SSID: SGP-NTNX- Guest
+
+   Password: Ntn@!G$ue
+
+   Prism Central IP Address: 10.129.34.5
+
+   Prism Element IP address: 10.129.34.10
+
+   Prism Username: Admin
+
+   Password: Nut@n!xS5

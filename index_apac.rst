@@ -1,5 +1,6 @@
 .. title:: Nutanix Singapore Bootcamp lab guide
 
+
 .. toctree::
    :maxdepth: 2
    :caption: Nutanix ERA Labs
@@ -7,6 +8,18 @@
    :hidden:
 
    era/era
+
+
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Advanced Labs (optional)
+   :name: _advanced_labs
+   :hidden:
+
+   calm_day2/calm_day2
+   calm_win/calm_win
+   apis/apis
 
 .. toctree::
    :maxdepth: 2
@@ -21,33 +34,33 @@
 
 
 
-   .. _welcome:
+.. _welcome:
 
-   --------------------------
-   Nutanix Singapore Bootcamp lab guide
-   --------------------------
+--------------------------
+Nutanix Singapore Bootcamp lab guide
+--------------------------
 
-   Welcome to Nutanix Singapore Bootcamp ERA 101
+Welcome to Nutanix Singapore Bootcamp basic 101
 
-   Labs are designed to be completed by each individual, not in groups.
+Labs are designed to be completed by each individual, not in groups.
 
-   Please reach out to any Nutanix trainer if you face any technical issue.
+Please reach out to any Nutanix trainer if you face any technical issue.
 
-   .. raw:: html
+.. raw:: html
 
-     <strong><font color="red">REVIEW THE FOLLOWING SECTIONS BEFORE BEGINNING ANY LABS:</font></strong>
+  <strong><font color="red">REVIEW THE FOLLOWING SECTIONS BEFORE BEGINNING ANY LABS:</font></strong>
 
 
-   Ensure that you are connected to Nutanix Guest Wifi, details are provided below:
+Ensure that you are connected to Nutanix Guest Wifi, details are provided below:
 
-   SSID: SGP-NTNX- Guest
+SSID: SGP-NTNX- Guest
 
-   Password: Ntn@!G$ue
+Password: Ntn@!G$ue
 
-   Prism Central IP Address: 10.129.34.5
+Prism Central IP Address: 10.129.34.5
 
-   Prism Element IP address: 10.129.34.10
+Prism Element IP address: 10.129.34.10
 
-   Prism Username: Admin
+Prism Username: Admin
 
-   Password: Nut@n!xS5
+Password: Nut@n!xS5

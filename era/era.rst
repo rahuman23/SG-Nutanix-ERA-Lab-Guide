@@ -83,9 +83,9 @@ Registering a Cluster
 
    - **Name** - *Your Cluster Name*
    - **Description** - (Optional) Description
-   - **Address** - *Your Prism Element Cluster IP*
+   - **Address** - 10.129.34.5
    - **Prism Element Administrator** - admin
-   - **Password** - techX2019!
+   - **Password** - Nut@n!xS5
 
    .. figure:: images/3b2.png
 
@@ -95,7 +95,7 @@ Registering a Cluster
 
 #. Click **Next**.
 
-#. Select the **Default** storage container and click **Next**.
+#. Select the **Default (default-container-95315861540749)** storage container and click **Next**.
 
    .. figure:: images/3c.png
 

@@ -46,9 +46,9 @@ SSID: SGP-NTNX- Guest
 
 Password: Ntn@!G$ue
 
-Prism Central IP Address: 10.129.34.5
+Prism Central IP Address: 10.129.34.10
 
-Prism Element IP address: 10.129.34.10
+Prism Element IP address: 10.129.34.5
 
 Prism Username: Admin
 
